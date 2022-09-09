@@ -1,8 +1,6 @@
-# Simple_Linear_Regression-Assignment
+# **Prediction of Salary of individuals based on years of experience**
 
-1) Delivery_time -> Predict delivery time using sorting time 
-
-2) Salary_hike -> Build a prediction model for Salary_hike
+1)Salary_hike -> Build a prediction model for Salary_hike
 
 ------------------------------------------------------------
 
